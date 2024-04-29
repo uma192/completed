@@ -1,2 +1,2 @@
-# completed
- gallery hover
+# gallery hover
+ task 2 complete
